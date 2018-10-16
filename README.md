@@ -9,7 +9,7 @@ the number S is equal to the sum of its digits raised to the power of M. The pro
 Example of the number:
 370 = 3 * 3 * 3 + 7 * 7 * 7 + 0 * 0 * 0
 8208 = 8 * 8 * 8 * 8 + 2 * 2 * 2 * 2 + 0 * 0 * 0 * 0 + 8 * 8 * 8 * 8
-The execution time must not be more then 10 seconds.
+The execution time must not be more than 10 seconds.
 
 ### Run the program:
 ```
